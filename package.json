@@ -24,7 +24,7 @@
     "babel-eslint": "^10.0.3",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
-    "handlebars": "^4.5.3",
+    "handlebars": "^4.7.7",
     "postcss-pxtorem": "^4.0.1",
     "vue-template-compiler": "^2.6.10"
   },
